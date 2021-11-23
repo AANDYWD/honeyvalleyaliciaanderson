@@ -102,6 +102,18 @@ h1,h2,h3,h4,h5,h6{
   margin-right:20px;
   padding:4px;
 }
+.element1{
+  width: 300px;
+  height: 540px;
+  background: #f8f5f1;
+  margin-right:20px;
+ padding:4px;
+ border-style:ridge solid;
+ border-color: #e45826;
+ border-width: 10px;
+ 
+}
+
 .elementPicture{
 	margin-left:100px;
 }
