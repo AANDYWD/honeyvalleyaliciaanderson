@@ -21,7 +21,7 @@ body,.default-text {
 a {
   font-family: 'Fira Sans', sans-serif;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .logo-image{
@@ -50,9 +50,10 @@ a {
 .button{
 	color:#ffffff;
 	background-color:#e45826;
-	padding:5px;
+	padding:20px;
 	margin-top:15px;
-	
+}
+
   border: none;
   color: white;
   padding: 15px 32px;
@@ -96,33 +97,24 @@ h1,h2,h3,h4,h5,h6{
 	 display: flex;
 }
 .element{
-  width: 300px;
+  width: 450px;
   height: 540px;
   background: #f8f5f1;
-  margin-right:20px;
-  padding:4px;
-}
-.element1{
-  width: 300px;
-  height: 540px;
-  background: #f8f5f1;
-  margin-right:20px;
- padding:4px;
- border-style:ridge solid;
- border-color: #e45826;
- border-width: 10px;
- 
+  margin-right:8px;
+  padding:1px;
+  
 }
 
 .elementPicture{
 	margin-left:100px;
+  width: 400px;
 }
 .intro-image{
 	width:100%;
 	float:right;
 }
 .product-image{
-	width:100%;
+	width:120%;
 	float:right;
 	 height: 400px;
 }
@@ -170,10 +162,10 @@ h1,h2,h3,h4,h5,h6{
   display: flex;
 	}
 .section5c1{
-		width:120%;
+		width:80%;
 	}
 .section5c2{
-		width:40%;
+		width:20%;
 		float:right;
 	}
 .footer {
